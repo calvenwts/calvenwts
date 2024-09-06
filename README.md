@@ -2,15 +2,9 @@
 <br>
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/calvenwts/assets-cdn@latest/PersonalGithubReadme/calven_memoji.png" width="200"/>
-<p aligh="left">
-  <p>Hey there, welcome!</br>
-  I'm Calven, Full Stack developer from <img src="https://cdn.jsdelivr.net/gh/calvenwts/assets-cdn/PersonalGithubReadme/malaysia.svg" width="14px"/> <b>Kuala Lumpur, Malaysia</b>.</p>
-  	
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm currently learning more about <a style="color:#45b8d8" href="https://rubyonrails.org/" target="_blank"><u>Ruby on Rails</u></a> and <a style="color:#000000" href="https://go.dev/" target="_blank"><u>Golang</u></a>.\
-  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
-</p>
-<br>
+<p align="left"> 
+<p>Welcome!<br> I'm <b>Calven</b>, a Senior Full Stack Developer based in <img src="https://cdn.jsdelivr.net/gh/calvenwts/assets-cdn/PersonalGithubReadme/malaysia.svg" width="14px"/> <b>Kuala Lumpur, Malaysia</b>, with over 2 years of experience working with <a style="color:#45b8d8" href="https://rubyonrails.org/" target="_blank"><u>Ruby on Rails</u></a> and recently expanding into <a style="color:#000000" href="https://go.dev/" target="_blank"><u>Golang</u></a> for modern backend solutions.</p>
+💡  I am deeply invested in continuous learning, advocating for staying current with evolving technologies to drive innovation.<br> 🌱  Along with Rails and Go, I hold <b>AWS certifications</b>, which you can view <a style="color:#FF9900" href="https://www.credly.com/badges/4037a691-0936-4f45-9087-d57f0316ad5d/public_url" target="_blank"><u>here</u></a>, enabling me to build cloud-native applications and architect scalable solutions.<br> 💬  Feel free to connect for consulting, collaboration, or engaging discussions on software architecture, cloud solutions, or the latest tech trends.
 
 <h2>👨🏻‍💻 &nbsp;Things I code with everyday</h2>
 <p>
@@ -23,7 +17,6 @@
   <img alt="CSS/LESS" src="https://img.shields.io/badge/-CSS/LESS-2C5084?style=flat-square&logo=less&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat_square&logo=go&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
