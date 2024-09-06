@@ -3,10 +3,12 @@
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/calvenwts/assets-cdn@latest/PersonalGithubReadme/calven_memoji.png" width="200"/>
 <p align="left"> 
-<p>Welcome!<br> I'm <b>Calven</b>, a Full Stack Developer based in <img src="https://cdn.jsdelivr.net/gh/calvenwts/assets-cdn/PersonalGithubReadme/malaysia.svg" width="14px"/> <b>Kuala Lumpur, Malaysia</b>, with 5 years of experience in the tech industry—2 years in consulting and 3 years as a developer. I have over 2 years of hands-on experience with <a style="color:#45b8d8" href="https://rubyonrails.org/" target="_blank"><u>Ruby on Rails</u></a> and have recently been working on <a style="color:#000000" href="https://go.dev/" target="_blank"><u>Golang</u></a> projects, focusing on modern backend solutions.</p>
-💡  I am passionate about continuous learning and staying up to date with evolving technologies to drive innovation.<br> 🌱  In addition to Rails and Go, I hold <b>AWS certifications</b>, which you can view <a style="color:#FF9900" href="https://www.credly.com/badges/4037a691-0936-4f45-9087-d57f0316ad5d/public_url" target="_blank"><u>here</u></a>, empowering me to build cloud-native applications and architect scalable solutions.<br> 💬  Feel free to connect for consulting, collaboration, or engaging discussions on software architecture, cloud solutions, or the latest tech trends.
+<p>Welcome!<br> I'm <b>Calven</b>, a Full Stack Developer based in <img src="https://cdn.jsdelivr.net/gh/calvenwts/assets-cdn/PersonalGithubReadme/malaysia.svg" width="14px"/> <b>Kuala Lumpur, Malaysia</b>, with 5 years of experience in the tech industry. Mostly building cool stuff with <a style="color:#45b8d8" href="https://rubyonrails.org/" target="_blank"><u>Ruby on Rails</u></a> and recently with <a style="color:#000000" href="https://go.dev/" target="_blank"><u>Golang</u></a> projects, focusing on modern backend solutions.</p>
+💡  I am passionate about continuous learning and evolving technologies.<br> 
+🌱  Check out my recent <a style="color:#FF9900" href="https://www.credly.com/badges/4037a691-0936-4f45-9087-d57f0316ad5d/public_url" target="_blank"><b>AWS certifications</b></a><br> 
+💬  Feel free to connect for collaboration & discussions.
 </p>
-<h2>👨🏻‍💻 &nbsp;Things I code with everyday</h2>
+<h2>👨🏻‍💻 &nbsp;Things I work with everyday</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJs-43853D?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
