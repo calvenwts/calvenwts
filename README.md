@@ -5,12 +5,12 @@
 <p align="left">
 Welcome!<br>
 I'm <b>Calven</b>, a Senior Software Engineer based in <img src="https://cdn.jsdelivr.net/gh/calvenwts/assets-cdn/PersonalGithubReadme/malaysia.svg" width="14px"/> <b>Petaling Jaya, Malaysia</b>, with 6 years of experience building distributed backend systems and event-driven platforms.<br><br>
-I specialise in messaging infrastructure, data pipelines, and multi-tenant services — with a strong focus on reliability, observability, and production-safe system evolution. Currently going deep on <a style="color:#00ADD8" href="https://go.dev/" target="_blank"><u>Go</u></a>, Kubernetes, and NATS JetStream.
+I specialise in messaging infrastructure, data pipelines, and multi-tenant services, with a focus on reliability, observability, and production-safe system evolution. Currently going deep on <a style="color:#00ADD8" href="https://go.dev/" target="_blank"><u>Go</u></a>, Kubernetes, and NATS JetStream.
 </p>
 
 💡 Passionate about distributed systems, pragmatic architecture, and building things that hold up at scale.<br>
 🌱 Check out my recent <a style="color:#FF9900" href="https://www.credly.com/badges/4037a691-0936-4f45-9087-d57f0316ad5d/public_url" target="_blank"><b>AWS certifications</b></a><br>
-💬 Open to collaboration and technical discussions — feel free to reach out.
+💬 Open to collaboration and technical discussions, feel free to reach out.
 
 ---
 
